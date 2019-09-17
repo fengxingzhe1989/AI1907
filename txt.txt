@@ -1,0 +1,8 @@
+
+sudo git config --system user.name fwj
+git config --global user.email 839268576@qq.com
+git init#初始化目录
+
+git config core.editor pycharm
+
+cat .git/config
